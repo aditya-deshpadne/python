@@ -1,0 +1,13 @@
+#Write a program to accep two strings from user and check if string 2 is rotation of string 1
+
+example
+
+s='abcd'
+s1='dabc' # here s1 is roation of s
+
+Soluion :
+
+scopy = s+s # 'bcdabcd'
+s1 in s #check string to is part of scopy
+
+
